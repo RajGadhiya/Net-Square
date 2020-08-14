@@ -9,7 +9,7 @@
 
 1. Open the provided link in challenge.
 
-    ![](NSCTFAPRW4/Images/1/1.png)
+    ![](Images/1/1.png)
 2. View page source of the page and observe that threre are two encoded strings in comments.
 
     ![](NSCTFAPRW4/Images/1/2.png)
