@@ -1,6 +1,6 @@
 <h1 style="color:red">#EnterpriseNetworkingSquad</h1>
 
-##Linux VM for Previleges Escalation
+## Linux VM for Previleges Escalation
 
 
 This [Ubuntu VM](https://drive.google.com) is created for getting the basic idea of privilege escalation in linux. Here we have misconfigured sudo rights which lead to root privilege escalation. This lab will help us to understand, how certain built-in applications and services if misconfigured, may be abused by an attacker.
